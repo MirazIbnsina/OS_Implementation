@@ -14,10 +14,3 @@ Implementation of operating system time scheduling processes as -
 1. Click the file included with .c
 2. Run any C compiler (Made by CodeBlocks)
 3. Should works fine!
-
-
-
-
-# Contact
-Any query or customize project?
-anytime: mirazibnsina@outlook.com
